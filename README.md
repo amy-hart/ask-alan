@@ -2,7 +2,7 @@
 
 Ask Alan is a dating advice app. If in doubt, Ask Alan!
 
-Are you on a date that isn't going well? No problem! Alan will get the conversation flowing. Alan can recommend topics of conversation, provide you with hilarious jokes, or suggest some fantastic pickup lines.
+Are you on a date that isn't going well? No problem! Alan will get the conversation flowing. Alan can recommend topics of conversation, provide you with hilarious jokes, and suggest some fantastic pickup lines.
 
 This application was built by Team Alan at HAC100's Hack Manchester in 2018. Our challenge was to come up with the most bizarre use case of ClockworkSMS. See [here](https://www.clockworksms.com/blog/hack-manchester-2018/ "Read about the challenge on the ClockworkSMS website") for more details. 
 
