@@ -1,10 +1,10 @@
 ## Ask Alan!
 
-Ask Alan is a dating advice and help tool. If in doubt, Ask Alan!
+Ask Alan is a dating advice app. If in doubt, Ask Alan!
 
-On a date that's not going well? No problem! Alan will get the conversation flowing. Alan can recommend topics of conversation, provide you with hilarious jokes, and suggest some fantastic pickup lines.
+Are you on a date that isn't going well? No problem! Alan will get the conversation flowing. Alan can recommend topics of conversation, provide you with hilarious jokes, or suggest some fantastic pickup lines.
 
-This application was built by Team Alan at HAC100's Hack Manchester in 2018. Our challenge was to come up with a bizarre use case for ClockworkSMS. See [here](https://www.clockworksms.com/blog/hack-manchester-2018/ "Read about the challenge on the ClockworkSMS website") for more details. 
+This application was built by Team Alan at HAC100's Hack Manchester in 2018. Our challenge was to come up with the most bizarre use case of ClockworkSMS. See [here](https://www.clockworksms.com/blog/hack-manchester-2018/ "Read about the challenge on the ClockworkSMS website") for more details. 
 
 Click on the thumbnail below to watch the video that was submitted along with our entry.
 
