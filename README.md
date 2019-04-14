@@ -2,9 +2,9 @@
 
 Ask Alan is a dating advice and help tool. If in doubt, Ask Alan!
 
-On a date? Not going well? No problem! Alan will get the conversation flowing. Alan can recommend topics of conversation, provide you with hilarious jokes, and suggest some fantastic pickup lines.
+On a date that's not going well? No problem! Alan will get the conversation flowing. Alan can recommend topics of conversation, provide you with hilarious jokes, and suggest some fantastic pickup lines.
 
-This application was built by Team Alan at HAC100's Hack Manchester in 2018. Our challenge was to come up with a bizzare usecase for ClockworkSMS. See [here](https://www.clockworksms.com/blog/hack-manchester-2018/ "Read about the challenge on the ClockworkSMS website") for more details. 
+This application was built by Team Alan at HAC100's Hack Manchester in 2018. Our challenge was to come up with a bizarre use case for ClockworkSMS. See [here](https://www.clockworksms.com/blog/hack-manchester-2018/ "Read about the challenge on the ClockworkSMS website") for more details. 
 
 Click on the thumbnail below to watch the video that was submitted along with our entry.
 
@@ -14,7 +14,7 @@ Click on the thumbnail below to watch the video that was submitted along with ou
 
 * Text "Askalan convo" to 84433 for a conversation starter.
 * Text "Askalan joke" to 84433 for a joke.
-* Text "Askalan chatup" to 84433 for a chatup line.
+* Text "Askalan chatup" to 84433 for a chat up line.
 
 # Team Alan
 
