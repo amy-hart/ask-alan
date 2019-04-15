@@ -23,7 +23,7 @@ Team Alan was made up of four students from a part-time coding bootcamp ran by M
 Team members include:
 * [Tom Dunn](https://github.com/breakfastmeansbreakfast/ "Tom's GitHub page")
 * [Elena Stagg](https://github.com/elenastagg "Elena's GitHub page")
-* [Nick](https://github.com/Codenivore "Nick's GitHub page")
+* [Nick McAlpine](https://github.com/Codenivore "Nick's GitHub page")
 * [Amy Hart](https://github.com/amy-hart "Amy's GitHub page")
 
 
