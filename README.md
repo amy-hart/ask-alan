@@ -16,16 +16,11 @@ Click on the thumbnail below to watch the video that was submitted along with ou
 * Text "Askalan joke" to 84433 for a joke.
 * Text "Askalan chatup" to 84433 for a chat up line.
 
-# Team Alan
+# Acknowledgements
 
-Team Alan was made up of four students from a part-time coding bootcamp ran by Manchester Codes.
+I joined Team Alan and attended Hack Manchester with little development experience. I wasn't able to contribute to the development of the app as much as my team members, but I really enjoyed the experience, and even managed to learn some new skills. 
 
-Team members include:
-* [Tom Dunn](https://github.com/breakfastmeansbreakfast/ "Tom's GitHub page")
-* [Elena Stagg](https://github.com/elenastagg "Elena's GitHub page")
-* [Nick McAlpine](https://github.com/Codenivore "Nick's GitHub page")
-* [Amy Hart](https://github.com/amy-hart "Amy's GitHub page")
-
+AskAlan draws from a collection of predetermined responses. We had planned to store these responses in a database, which could be accessed via an API. I created some routes using Express, and used Mongoose to connect to a MongoDB database.
 
 
 
