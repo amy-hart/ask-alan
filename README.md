@@ -16,7 +16,7 @@ Click on the thumbnail below to watch the video that was submitted along with ou
 * Text "Askalan joke" to 84433 for a joke.
 * Text "Askalan chatup" to 84433 for a chat up line.
 
-# My Contribution
+# My Contributions
 
 AskAlan draws from a collection of predetermined responses, we had planned to store these in a database which would be made accesssible via an API. I created some routes in Express and connected them to a MongoDB database using Mongoose. Unfortunately we ran out of time when it came to connecting our work together at the end of the hackathon, Alan simply draws his responses from a dummy JSON file for now, maybe we'll connect him up to the database at some point in the future. :)
 
