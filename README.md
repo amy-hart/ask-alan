@@ -16,13 +16,9 @@ Click on the thumbnail below to watch the video that was submitted along with ou
 * Text "Askalan joke" to 84433 for a joke.
 * Text "Askalan chatup" to 84433 for a chat up line.
 
-# Acknowledgements
+# My Contribution
 
-I joined Team Alan and attended Hack Manchester with little development experience. My contributions to the app were limited due to my inexperience, but I really enjoyed the experience, and even managed to learn some new skills. 
-
-AskAlan draws from a collection of predetermined responses. We had planned to store these responses in a database, which could be accessed via an API. I created some routes using Express, and used Mongoose to connect to a MongoDB database. 
-
-Unfortunately we ran out of time when it came to combining our work towards the end of the Hackathon, so Alan draws responses from a JSON file for now, but may be connected to a database in the future.
+AskAlan draws from a collection of predetermined responses, we had planned to store these in a database which would be made accesssible via an API. I created some routes in Express and connected them to a MongoDB database using Mongoose. Unfortunately we ran out of time when it came to connecting our work together at the end of the hackathon, Alan simply draws his responses from a dummy JSON file for now, maybe we'll connect him up to the database at some point in the future. :)
 
 
 
